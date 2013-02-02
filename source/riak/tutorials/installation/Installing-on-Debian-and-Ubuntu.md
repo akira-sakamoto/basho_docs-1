@@ -26,7 +26,7 @@ Riak を楽にインストールしたいだけでしたら、`apt-get` を使�
 curl http://apt.basho.com/gpg/basho.apt.key | sudo apt-key add -
 ```
 
-次に Basho のリポジトリを apt のソース率とに追加します（アップデートもしてください）。
+次に Basho のリポジトリを apt のソースリストに追加します（アップデートもしてください）。
 
 ```
 sudo bash -c "echo deb http://apt.basho.com lsb_release -sc main > /etc/apt/sources.list.d/basho.list"

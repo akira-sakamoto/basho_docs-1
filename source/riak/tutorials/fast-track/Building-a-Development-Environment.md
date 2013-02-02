@@ -21,7 +21,7 @@ interest: [
 
 ## 依存性ライブラリ
 
-Riak をソースからビルドするには、Erlang R15B01 以降が必要です。Basho によるビルド済 Riak パッケージの最新版は、[ダウンロードディレクトリ](http://basho.com/resources/downloads/) にあり、この中には Erlang のランタイムも組み込まれています。とはいえ、このチュートリアルではソースからのビルドを行いますので、Erlang をまだインストールしていない場合は、[[Erlang のインストール|Installing Erlang] を参照してください。
+Riak をソースからビルドするには、Erlang R15B01 以降が必要です。Basho によるビルド済 Riak パッケージの最新版は、[ダウンロードディレクトリ](http://basho.com/resources/downloads/) にあり、この中には Erlang のランタイムも組み込まれています。とはいえ、このチュートリアルではソースからのビルドを行いますので、Erlang をまだインストールしていない場合は、[[Erlang のインストール|Installing Erlang]] を参照してください。
 
 ビデオでの解説をお望みでしたら、こちらに Linux 上で Erlang をソースからインストールした様子のビデオがあります。
 

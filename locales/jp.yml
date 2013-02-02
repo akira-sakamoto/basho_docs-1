@@ -30,7 +30,7 @@ jp:
     getting_started:
       title: "初めに"
       fast_track: "[[The Riak Fast Track]]"
-      installing: "[[インストールとアップグレード|Installing and Upgrading]]"
+      installing: "[[インストールとアップグレード]]"
       querying: "[[Riak でクエリ|Querying Riak]]"
     developing_t: "Riak での開発"
     developing_p: "インストール済みの Riak 環境をお持ちで、その上で開発を行いたいのであれば、ここにあるリソースを参照してください。また、[[Riak 開発用 FAQ|Developing on Riak FAQs]] も参照してください。"
